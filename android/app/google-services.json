@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "675108839307",
+    "firebase_url": "https://pdsafe-defhacks.firebaseio.com",
+    "project_id": "pdsafe-defhacks",
+    "storage_bucket": "pdsafe-defhacks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675108839307:android:96374539e2d33aa73a198e",
+        "android_client_info": {
+          "package_name": "com.amartya.pdsafe_defhacks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675108839307-cd35rf6p2ufvtfo5bfgeq48bhuq5shuu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amartya.pdsafe_defhacks",
+            "certificate_hash": "39906a007d4fb2681aaa78cb560d2cc4edcdc561"
+          }
+        },
+        {
+          "client_id": "675108839307-sh971c7tvmjpbfdg124at2i6ghdrtn3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnQtDuBREvVAyH9x9uP8KvZdMM-EO5v0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675108839307-sh971c7tvmjpbfdg124at2i6ghdrtn3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
