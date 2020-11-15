@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:pdsafe_defhacks/models/personal.dart';
 import 'package:pdsafe_defhacks/models/user.dart';
-import 'package:pdsafe_defhacks/profile/prior_diagnosis.dart';
-import 'package:pdsafe_defhacks/profile/settings_form.dart';
-import 'package:pdsafe_defhacks/profile/sympstoms_form.dart';
+import 'package:pdsafe_defhacks/screens/profile/prior_diagnosis.dart';
+import 'package:pdsafe_defhacks/screens/profile/settings_form.dart';
+import 'package:pdsafe_defhacks/screens/profile/sympstoms_form.dart';
 import 'package:pdsafe_defhacks/services/auth.dart';
 import 'package:pdsafe_defhacks/services/database.dart';
 import 'package:pdsafe_defhacks/shared/constants.dart';

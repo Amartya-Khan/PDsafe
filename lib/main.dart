@@ -30,6 +30,17 @@ class _MyAppState extends State<MyApp> {
         debugShowCheckedModeBanner: false,
         home: Wrapper(),
         routes: {
+          SpiralStatic.id: (context) => SpiralStatic(),
+          SpiralDynamic.id: (context) => SpiralDynamic(),
+          WaveStatic.id: (context) => WaveStatic(),
+          WaveDynamic.id: (context) => WaveDynamic(),
+          TestSelection.id: (context) => TestSelection(),
+          SpiralModel.id: (context) => SpiralModel(),
+          Profile.id: (context) => Profile(),
+          WaveModel.id: (context) => WaveModel(),
+          SpiralPhoto.id: (context) => SpiralPhoto(),
+          WavePhoto.id: (context) => WavePhoto(),
+          AddDocument.id: (context) => AddDocument(),
           
         },
       ),

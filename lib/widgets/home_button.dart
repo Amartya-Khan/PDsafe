@@ -1,11 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:pd_safe/screens/spiral_tests/spiral_dynamic.dart';
-import 'package:pd_safe/screens/spiral_tests/spiral_photo.dart';
-import 'package:pd_safe/screens/spiral_tests/spiral_static.dart';
-import 'package:pd_safe/screens/wave_tests/wave_dynamic.dart';
-import 'package:pd_safe/screens/wave_tests/wave_photo.dart';
-import 'package:pd_safe/screens/wave_tests/wave_static.dart';
-import 'package:pd_safe/shared/constants.dart';
+import 'package:pdsafe_defhacks/screens/spiral_tests/spiral_dynamic.dart';
+import 'package:pdsafe_defhacks/screens/spiral_tests/spiral_photo.dart';
+import 'package:pdsafe_defhacks/screens/spiral_tests/spiral_static.dart';
+import 'package:pdsafe_defhacks/screens/wave_tests/wave_dynamic.dart';
+import 'package:pdsafe_defhacks/screens/wave_tests/wave_photo.dart';
+import 'package:pdsafe_defhacks/screens/wave_tests/wave_static.dart';
+import 'package:pdsafe_defhacks/shared/constants.dart';
+
 
 
 class HomeButton extends StatelessWidget {
